@@ -7,7 +7,7 @@ body{
     overflow: hidden;
 }
 .gameContainer{
-    background-image: url(.../assets/images/du.png);
+    background-image: url(../assets/images/du.png);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     width: 100%;
@@ -15,7 +15,7 @@ body{
 }
 
 .dino{
-    background-image: url(.../assets/images/dino.png);
+    background-image: url(../assets/images/dino.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 233px;
@@ -28,7 +28,7 @@ body{
 .obstacle{
     width: 166px;
     height: 113px;
-    background-image: url(.../assets/images/dragon.png);
+    background-image: url(../assets/images/dragon.png);
     background-size: cover;
     position: absolute;
     bottom: 0;
