@@ -5,7 +5,7 @@
 }
 
 .body{
-    background: url(".../assets/images/snake-653639_1920.jpg"); 
+    background: url("../../assets/images/snake-653639_1920.jpg"); 
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
