@@ -7,7 +7,7 @@
 }
 
 body{
-    background:url('/assets/images/cabin-924958_1920.jpg');
+    background:url('.../assets/images/cabin-924958_1920.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
