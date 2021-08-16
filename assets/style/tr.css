@@ -1,0 +1,11 @@
+body{
+   background: url("/assets/images/school-supplies-3033204.jpg"); 
+   background-repeat: no-repeat;
+   background-size: 100% 200%;
+}
+.card{
+box-shadow: 10px 10px rgb(255, 89, 89);
+}
+.container h1{
+    text-shadow: 70px 70px 70px white;
+}

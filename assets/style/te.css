@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(rgb(22, 16, 16),black);
+}
+.d-block{
+    width: 100%;
+    height: 500px;
+}
